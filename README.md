@@ -49,11 +49,3 @@ I mastered HTML, CSS and Javascript (fetch api) features in this project. You ca
 <center> ⌛ Happy Coding  ✍ </center>
 
 
-
-![Project 004 Snapshot](./project04.png)
-
-### Images
-[Images Folder](./images/)
-
-
-
